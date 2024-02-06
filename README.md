@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @0xPap3rcl1p
+- 👀 I’m interested in security engineering
+- 🌱 I’m currently learning Go, TypeScript and Cloud Security
+- 😄 Pronouns: He/Him
